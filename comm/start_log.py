@@ -62,5 +62,5 @@ def kais():
         if start_size != old_or_new():
             log(start_size, old_or_new())
             print(start_size, old_or_new())
-        time.sleep(5)
+        time.sleep(1)
         print(1)
