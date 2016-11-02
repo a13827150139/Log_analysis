@@ -7,6 +7,5 @@ db_file_path="lo_db/log.db"		#设置数据库保存位置
 rule = ｛｝                     #正则的规则 
 tp = （）						#应用正则匹配需要的数据
 python start.py  #启动
-![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
-![image](https://github.com/a13827150139/Log_analysis/blob/master/img/z1.png）
+![image](https://raw.githubusercontent.com/a13827150139/Log_analysis/master/img/z1.png)
 
